@@ -13,9 +13,7 @@
     <string name="late">You\'re up late, %s</string>
     <string name="bedtime">Good evening, %s\n\nIt\'s Hannah\'s bedtime.</string>
 
-    <!-- Forecast module -->
-    <string name="bike_today">Bike Today</string>
-    <string name="no_bike_today">Don\'t Bike Today</string>
+
 
     <!--  Birthday module -->
     <string name="happy_birthday">Happy Birthday, %s!</string>
@@ -45,7 +43,7 @@
     <string name="found_location">Found location</string>
     <string name="mood_explanation">Uses the front facing camera to read your expression</string>
     <string name="stock_description">Displays on weekdays if the stock swings more than 3%</string>
-    <string name="biking_hint">Show biking weather hint</string>
+
     <string name="how_to_stop">To get back to Set Up and stop mirror updates, swipe up from bottom of launched mirror, and press Back.</string>
     <string name="show_countdown">Show countdown</string>
     <string name="new_countdown">New countdown</string>

@@ -1,31 +1,27 @@
 # HomeMirror
-Android application powering the mirror in my house
+Android application edited from HannaMitt
 
-[Google Play Link](https://play.google.com/store/apps/details?id=com.morristaedt.mirror)
+
 
 <img src="https://raw.githubusercontent.com/HannahMitt/HomeMirror/master/design/IMG_20151121_183522%20(1).jpg" width="400"/>
 
 Software
 ====
-* Day, time, and weather display
+
 * Birthday messages
 * Chore reminders
-* Biking weather recommendation
-* Stock price swings
+
 * Today's new XKCD
-* Next calendar event
-* Top news headline
+
 * Face detection with mood detection
 
-APIs provided by Yahoo Finance, Forecast.io, the BBC, and XKCD
 
-<img src="https://raw.githubusercontent.com/HannahMitt/HomeMirror/master/design/HomeMirror.png" width="400"/>
 
 How to Run
 ----
 1. Clone project
-2. Get a [forecast.io api key](https://developer.forecast.io/)
-3. Add a keys.xml file under res/values with \<string name="dark_sky_api_key">your_key\</string>
+2. nope
+3. nope
 4. Import project to Android Studio and run
 
 When its mirror time, I also recommend turning on the device Developer Option: "Stay Awake - Screen will never sleep while charging"
@@ -38,13 +34,12 @@ Making a Mirror
 1. Obtain Android device
 ----
 We had too many. Sad old devices are ideal.
-I used a [2012 Nexus 7](http://www.amazon.com/gp/offer-listing/B009X3UW2G/ref=olp_tab_refurbished?ie=UTF8&condition=refurbished&qid=1441327955&sr=8-1).
+
 
 2. Obtain two-way mirror
 ---
 We did this the old-fashioned way, and quested to [Canal Plastic Center](http://canalplastic.com/). A beautiful and highly recommended establishment. 
 
-[Wiki of places to buy two-way mirrors](https://github.com/HannahMitt/HomeMirror/wiki/Places-to-buy-a-two-way-mirror)
 
 Get a mirror at least as large as your Android device. My mirror is 6"x12" with 1/8 thickness. 
 
